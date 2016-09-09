@@ -1,0 +1,33 @@
+{
+  "name": "aws-ri-ec2-sync",
+  "version": "1.0.0",
+  "description": "Lambda Function to Sync AWS Reserved Instance's Zone with running EC2 instances ",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "raven": "^0.12.1",
+    "vandium": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanerleo/aws-ri-ec2-sync.git"
+  },
+  "keywords": [
+    "AWS",
+    "Lambda",
+    "RI",
+    "EC2",
+    "Reserved",
+    "Instances"
+  ],
+  "author": "Leonid Vaner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanerleo/aws-ri-ec2-sync/issues"
+  },
+  "homepage": "https://github.com/vanerleo/aws-ri-ec2-sync#readme"
+}
