@@ -22,3 +22,6 @@ Create IAM policy with the following permissions
 ##Step 5
 ![Step 5]
 (https://cloud.githubusercontent.com/assets/4177492/18408712/07ab7850-777a-11e6-8b49-660ca7432d8f.PNG)
+
+Release Download Stats
+http://www.somsubhra.com/github-release-stats/?username=vanerleo&repository=aws-ri-ec2-sync
