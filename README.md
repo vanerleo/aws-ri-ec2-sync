@@ -20,6 +20,5 @@ Create IAM policy with the following permissions
 ![Step 4](https://cloud.githubusercontent.com/assets/4177492/18408720/485232ae-777a-11e6-99d9-59b32601a47b.PNG)
 
 ##Step 5
-Use Donwloaded archive
 ![Step 5]
 (https://cloud.githubusercontent.com/assets/4177492/18408712/07ab7850-777a-11e6-8b49-660ca7432d8f.PNG)
